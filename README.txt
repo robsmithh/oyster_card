@@ -48,3 +48,4 @@ For the purposes of this test use the following data:
 ![Fares](fares.png)
 
 The maximum possible fare is therefore £3.20.
+\
