@@ -16,6 +16,7 @@ describe Bus do
     bus.standard_charge
     card.unload(bus.charge)
     expect(card.amount).to eq 28.2
+    bus.standard_charge
     card.unload(bus.charge)
     expect(card.amount).to eq 26.4
   end

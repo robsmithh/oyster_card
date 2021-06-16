@@ -26,6 +26,4 @@ describe Journey do
     expect(rail.two). to eq ["Earl's Court", 'Hammersmith']
     expect(rail.three). to eq ['Chelsea']
   end
-
-  
 end
